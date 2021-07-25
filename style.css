@@ -1,0 +1,34 @@
+
+html {
+  background-color: #eeffff;
+}
+
+p {
+  color: #4e74d7;
+  width: 500px;
+  border: 1px solid black;
+  border-radius: 20px
+}
+
+.banner{
+    background-image: linear-gradient(to right, rgba(187, 51, 221, 0.897) , yellow, rgba(187, 51, 221, 0.897));
+
+}
+
+.grad {
+  
+  background-image: linear-gradient(to right top, rgba(187, 51, 221, 0.897), yellow);
+}
+
+#grad {
+
+min-height:100px;
+
+background-color: #3468c2ce;
+  }
+
+  #black {
+background-color: #000000ce;
+min-height:300px;
+
+  }
