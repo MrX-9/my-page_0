@@ -4,7 +4,7 @@ html {
 }
 
 p {
-  color: #4e74d7;
+  color: #410707;
   width: 500px;
   border: 1px solid black;
   border-radius: 20px
@@ -24,11 +24,11 @@ p {
 
 min-height:100px;
 
-background-color: #3468c2ce;
+background-color: #652781ce;
   }
 
   #black {
-background-color: #000000ce;
+background-color: #000000a6;
 min-height:300px;
 
   }
